@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Logging in to DraftStudio...</title>
+</head>
+<body>
+    <h3>Logging in to DraftStudio...</h3>
+    <p>You are being redirected back to your local app.</p>
+    <script>
+        // Bounce the auth code back to the local Flask server
+        setTimeout(function() {
+            window.location.href = "http://127.0.0.1:5000/auth/tiktok/callback" + window.location.search;
+        }, 500); // 500ms delay just to let the browser process the history state
+    </script>
+</body>
+</html>
