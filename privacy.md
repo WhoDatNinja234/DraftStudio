@@ -4,16 +4,16 @@
 
 ## 1. Introduction
 
-SlopBot ("the Service") respects your privacy. This Privacy Policy explains how we collect, use, and protect information.
+DraftStudio ("the Service") respects your privacy. This Privacy Policy explains how we collect, use, and protect information.
 
 ## 2. Information We Collect
 
-- **TikTok Account Information:** When you authorize the Service via TikTok OAuth, we receive your TikTok user ID, display name, and access tokens. This is required to post content on your behalf.
+- **TikTok Account Information:** When you authorize the Service via TikTok OAuth, we receive your TikTok user ID, display name, and access tokens. This is required to export content to your TikTok account.
 - **Content Data:** Product images and text you provide for ad generation are processed locally and on rented GPU infrastructure. They are not stored permanently or shared with third parties.
 
 ## 3. How We Use Information
 
-- To authenticate with TikTok and upload content to your account.
+- To authenticate with TikTok and export content to your TikTok drafts.
 - To generate video content based on your inputs.
 - Access tokens are stored locally on your device and are never transmitted to any third-party servers.
 

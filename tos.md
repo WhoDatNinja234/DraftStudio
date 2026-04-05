@@ -4,11 +4,11 @@
 
 ## 1. Acceptance of Terms
 
-By using SlopBot ("the Service"), you agree to these Terms of Service. If you do not agree, do not use the Service.
+By using DraftStudio ("the Service"), you agree to these Terms of Service. If you do not agree, do not use the Service.
 
 ## 2. Description of Service
 
-SlopBot is a personal content creation tool that assists with generating and posting video content to social media platforms. The Service is intended for use by its creator and authorized users only.
+DraftStudio is a creator tool that helps users generate short-form product videos from their own content inputs and export those videos to supported social media platforms for final review and posting. The Service is intended for lawful creator and business use.
 
 ## 3. User Responsibilities
 
